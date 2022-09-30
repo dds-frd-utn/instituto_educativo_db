@@ -4,6 +4,9 @@
 -- ------------------------------------------------------
 -- Server version	10.4.24-MariaDB
 CREATE DATABASE `instituto_educativo`;
+
+USE `instituto_educativo`;
+
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
